@@ -1,0 +1,9 @@
+.recipe-item-list {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .recipe-item-list__fallback {
+    color: white;
+    text-align: center;
+  }

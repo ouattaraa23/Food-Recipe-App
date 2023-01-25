@@ -1,0 +1,15 @@
+.images {
+    display:table-column;
+    align-items: center;
+    justify-content: space-between;
+    margin: 5px;
+}
+
+img {
+    display: flex;
+    align-self: flex-start;
+}
+
+h2 {
+    align-self: center;
+}

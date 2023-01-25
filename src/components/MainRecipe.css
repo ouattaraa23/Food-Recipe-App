@@ -1,0 +1,38 @@
+.main-recipe {
+    width: 100%;
+    margin: 5px;
+    text-align: center;
+    align-content: center;
+}
+
+body {
+    background-color: rgb(250, 237, 219);
+}
+
+h1 {
+    font-size: 48px;
+    padding-bottom: 5px;
+}
+
+h4 {
+    font-size: 20px;
+}
+
+.search-bar {
+    width: 300px;
+    height: 40px;
+    border-radius: 1rem;
+}
+
+.container {
+    width: 80%;
+    margin: 25px auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px,1fr));
+    grid-gap: 2rem;
+}
+
+.container-index {
+    padding-left: 1%;
+    margin: 2.5rem;
+}

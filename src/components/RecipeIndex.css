@@ -1,0 +1,20 @@
+.make-these-straight {
+    display: flex;
+    margin: 2.5rem 0;
+}
+
+.lexBox {
+    display:flex;
+    width: 50px;
+    height: 72px;
+    justify-content: center;
+    align-items: center;
+    margin: 0 5px 0 5px;
+}
+
+.lexBox h3 {
+    padding: 10%;
+    border-radius:  0.5rem;
+    color: rgb(253, 240, 222);
+    background-color: rgb(79, 42, 0);
+}
