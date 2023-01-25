@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# Welcome to the Github Repository for my Food-Recipe-App
+
+This is the first app I have made using React.js. The goal of this mini-project was to get familiar with using raect and accesssing API's
+from the internet. The app allows for the user to search for a food recipe and the app will display the name and picutre of the food and
+the instructioins to cook it along with a yotube tutorial if availible in your area.
+
+This is a very scrappy project as I am new to React.js and I am unfamiliar with excessive styling. 
+
+With that being said, I hope you enjoy!!
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
